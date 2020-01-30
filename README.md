@@ -1,3 +1,5 @@
+[![Travis build](https://travis-ci.com/Nexysweb/node13ecmaScript.svg?branch=master)](https://travis-ci.com/Nexysweb/node13ecmaScript)
+
 # Node v13 and support for ECMA script
 
 Running node with ECMA script and no transpilation => CommonJS

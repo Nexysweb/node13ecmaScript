@@ -22,3 +22,6 @@ v13.7.0
 ## Running
 
 `node --experimental-modules test.js`
+
+## References / interesting links
+* [Typescript boilerplate](https://github.com/Urigo/typescript-node-es-modules-example)

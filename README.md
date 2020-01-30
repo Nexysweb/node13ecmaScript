@@ -6,7 +6,7 @@ Running node with ECMA script and no transpilation => CommonJS
 
 https://nodejs.org/api/esm.html#esm_ecmascript_modules
 
-## Install latest versiom of node 
+## Install latest version of node 
 
 ### NVM
 
@@ -21,4 +21,7 @@ v13.7.0
 
 ## Running
 
-`node --experimental-modules test.js`
+`node --experimental-modules src/index.js`
+
+## References / interesting links
+* [Typescript boilerplate](https://github.com/Urigo/typescript-node-es-modules-example)

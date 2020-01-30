@@ -6,7 +6,7 @@ Running node with ECMA script and no transpilation => CommonJS
 
 https://nodejs.org/api/esm.html#esm_ecmascript_modules
 
-## Install latest versiom of node 
+## Install latest version of node 
 
 ### NVM
 
